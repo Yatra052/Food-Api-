@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Activity"
+        android:icon="@drawable/today"
+        android:id="@+id/home"/>
+    <item android:title="Goals"
+        android:icon="@drawable/mute"
+        android:id="@+id/goals"/>
+    <item android:title="Camera"
+        android:icon="@drawable/camera"
+        android:id="@+id/camera"/>
+    <item android:title="Feed"
+        android:icon="@drawable/task"
+        android:id="@+id/feed"/>
+    <item android:title="Profile"
+        android:icon="@drawable/icon"
+        android:id="@+id/profile"/>
+</menu>
